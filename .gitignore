@@ -1,0 +1,8 @@
+www/
+node_modules/
+platform/
+platforms/
+plugins/
+.vscode*
+resources/
+*.zip
